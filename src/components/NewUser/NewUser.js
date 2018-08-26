@@ -1,6 +1,6 @@
 import React, {Component} from 'react';
 
-import Label from '../Label';
+import Label from '../Label/Label';
 
 class NewUser extends Component {
   render() {
